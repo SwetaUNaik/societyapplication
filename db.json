@@ -11,24 +11,7 @@
     { "sr_no":9, "flat_no": 109, "owners_name":"Iupa Mahadev Dalvi", "monthly_charges":284, "mobile_number":940887630},
     { "sr_no":10, "flat_no": 110, "owners_name":"Jupa Mahadev Dalvi", "monthly_charges":284, "mobile_number":940687630},
     { "sr_no":11, "flat_no": 111, "owners_name":"Kupa Mahadev Dalvi", "monthly_charges":284, "mobile_number":940377630},
-    { "sr_no":12, "flat_no": 112, "owners_name":"Lupa Mahadev Dalvi", "monthly_charges":284, "mobile_number":940377630},
-    { "sr_no":13, "flat_no": 113, "owners_name":"Mupa Mahadev Dalvi", "monthly_charges":284, "mobile_number":9407387630},
-    { "sr_no":14, "flat_no": 114, "owners_name":"Nupa Mahadev Dalvi", "monthly_charges":284, "mobile_number":940687630},
-    { "sr_no":15, "flat_no": 115, "owners_name":"Oupa Mahadev Dalvi", "monthly_charges":284, "mobile_number":940687630},
-    { "sr_no":16, "flat_no": 116, "owners_name":"Pupa Mahadev Dalvi", "monthly_charges":284, "mobile_number":940387630},
-    { "sr_no":17, "flat_no": 117, "owners_name":"Qupa Mahadev Dalvi", "monthly_charges":284, "mobile_number":940387630},
-    { "sr_no":18, "flat_no": 118, "owners_name":"Rupa Mahadev Dalvi", "monthly_charges":284, "mobile_number":940387630},
-    { "sr_no":19, "flat_no": 119, "owners_name":"Supa Mahadev Dalvi", "monthly_charges":284, "mobile_number":940387630},
-    { "sr_no":20, "flat_no": 120, "owners_name":"Tupa Mahadev Dalvi", "monthly_charges":284, "mobile_number":940387630},
-    { "sr_no":21, "flat_no": 121, "owners_name":"Uupa Mahadev Dalvi", "monthly_charges":284, "mobile_number":940387630},
-    { "sr_no":22, "flat_no": 122, "owners_name":"Vupa Mahadev Dalvi", "monthly_charges":284, "mobile_number":940387630},
-    { "sr_no":23, "flat_no": 123, "owners_name":"Wupa Mahadev Dalvi", "monthly_charges":284, "mobile_number":940387630},
-    { "sr_no":24, "flat_no": 124, "owners_name":"Xupa Mahadev Dalvi", "monthly_charges":284, "mobile_number":940387630},
-    { "sr_no":25, "flat_no": 125, "owners_name":"Yupa Mahadev Dalvi", "monthly_charges":284, "mobile_number":940387630},
-    { "sr_no":26, "flat_no": 126, "owners_name":"Zupa Mahadev Dalvi", "monthly_charges":284, "mobile_number":940387630},
-    { "sr_no":27, "flat_no": 127, "owners_name":"Rupa Mahadev Dalvi", "monthly_charges":284, "mobile_number":940387630},
-    { "sr_no":28, "flat_no": 128, "owners_name":"Rupa Mahadev Dalvi", "monthly_charges":284, "mobile_number":940387630}
-  
-
+    { "sr_no":12, "flat_no": 112, "owners_name":"Lupa Mahadev Dalvi", "monthly_charges":284, "mobile_number":940377630}
+   
     ]
 }
